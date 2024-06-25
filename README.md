@@ -20,12 +20,7 @@ CWTRH is a web-based application designed to centralize and streamline the proce
 Follow these steps to set up the project locally.
 
 ### Prerequisites
-- Web server (e.g., Apache)
+- Web server (e.g., Apache or you can use XAMPP)
 - PHP (version 7.0 or higher)
 - MySQL
-- Composer (for managing PHP dependencies)
 
-### Steps
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/CWTRH.git
